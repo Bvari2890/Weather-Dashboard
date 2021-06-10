@@ -1,0 +1,14 @@
+.jumbotron{
+    background-color: navy;
+    color: white;
+    height: 5rem;
+    margin-bottom: 0;
+}
+
+.searchCol{
+    height: 100vh;
+    background-color: lightgray;
+    padding-top: 1rem;
+    padding-right: 2rem;
+    margin-right: 6rem;
+}
